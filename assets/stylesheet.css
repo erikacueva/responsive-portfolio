@@ -1,0 +1,35 @@
+
+button {
+    background-color: darkcyan;
+}
+
+body {
+    background: url(webb.png);
+    font-family: 'Slabo 27px', serif;
+}
+
+h5 {
+    font-family: 'Abril Fatface', cursive;
+}
+
+.card-body {
+    background-color: white;
+}
+
+.contact {
+    background-color: white;
+}
+
+.index-row {
+    background-color: white;
+}
+
+.aboutmecontainer {
+    flex-wrap: wrap;
+}
+
+footer {
+    font-family: 'Abril Fatface', cursive;
+    background-color: darkcyan;
+    border-top: 5px solid #059DC0;
+}
